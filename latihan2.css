@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, 'Times New Roman';
+    background-color: #65a9f3;
+    color: rgba(79, 41, 41, 0.52);
+    text-align: left;
+    padding: 20px;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: auto;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+    
+}
+
+button {
+    background-color: #208eee;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
